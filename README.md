@@ -2,6 +2,9 @@
 Codes for MathorCup 2022 Problem D - 5G base station site selection planning.
 ----
 ### Preprocessing and basic modeling
+- Data
+  -  Coordinates of the existing base station: [station.csv](https://github.com/VoyagerXvoyagerx/MathorCup2022D/blob/main/station.csv)
+  -  Traffic at weak coverage points: [weak.csv](https://github.com/VoyagerXvoyagerx/MathorCup2022D/blob/main/weak.csv)
 - Preprocessing: [BaseStation.mlx](https://github.com/VoyagerXvoyagerx/MathorCup2022D/blob/main/BaseStation.mlx) 
 - Results: [consts.mat](https://github.com/VoyagerXvoyagerx/MathorCup2022D/blob/main/consts.mat) 
 - Obtaining the map: [shift_table.mlx](https://github.com/VoyagerXvoyagerx/MathorCup2022D/blob/main/shift_table.mlx) 
