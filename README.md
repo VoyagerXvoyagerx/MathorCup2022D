@@ -7,7 +7,7 @@ Code for MathorCup 2022 Problem D (5G base station site selection planning).
 
 - Obtain the map: [shift_table.mlx](https://github.com/VoyagerXvoyagerx/MathorCup2022D/blob/main/shift_table.mlx) 
 
-- Coverage expansion function: [Obj_fun1.mlx](https://github.com/VoyagerXvoyagerx/MathorCup2022D/blob/main/Obj_fun1.mlx) 
+- Coverage expansion function: [expand.mlx](https://github.com/VoyagerXvoyagerx/MathorCup2022D/blob/main/Obj_fun1.mlx) 
 
 - Traffic coverage calculation function: [Obj_fun1.mlx](https://github.com/VoyagerXvoyagerx/MathorCup2022D/blob/main/Obj_fun1.mlx) 
 
