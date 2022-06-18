@@ -17,9 +17,9 @@ Codes for MathorCup 2022 Problem D - 5G base station site selection planning.
 #### Step2 Optimizing the sites
 - Global simulated annealing: [SA.mlx](https://github.com/VoyagerXvoyagerx/MathorCup2022D/blob/main/SA.mlx) 
 
-- Local simulated annealing: []() 
+- Local simulated annealing: [SA_distri](https://github.com/VoyagerXvoyagerx/MathorCup2022D/blob/main/SA_distri.mlx) 
 
 #### Step3 Removing redundancy
-- Removing redundant basestations using greedy algorithm: []() 
+- Removing redundant basestations using greedy algorithm: [del.mlx](https://github.com/VoyagerXvoyagerx/MathorCup2022D/blob/main/del.mlx) 
 
-- Visulization: []() 
+- Visulization: [paint.m](https://github.com/VoyagerXvoyagerx/MathorCup2022D/blob/main/paint.m) 
