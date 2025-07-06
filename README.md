@@ -1,5 +1,5 @@
 # MathorCup2022D
-Codes for MathorCup 2022 Problem D - 5G base station site selection planning.
+Codes for MathorCup 2022 Problem D - Optimal Placement of 5G Base Stations.
 ----
 ### Preprocessing and basic modeling
 - Data
